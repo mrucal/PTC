@@ -1,0 +1,78 @@
+<test>
+	<pregunta id="1">
+		<enunciado>Ángela escribe una postal sobre ... </enunciado>
+		<valoracion>2.5</valoracion>
+		<opciones>
+			<opcion id="1">
+				<texto>su trabajo de verano en España. </texto>
+				<puntuacion>0</puntuacion>
+			</opcion>
+			<opcion id="2">
+				<texto>sus estudios en España</texto>
+				<puntuacion>100</puntuacion>
+			</opcion>
+			<opcion id="3">
+				<texto>su viaje a España en verano. </texto>
+				<puntuacion>0</puntuacion>
+			</opcion>
+			<opcion id="4">
+				<texto> su curso de español en San Sebastián. </texto>
+				<puntuacion>0</puntuacion>
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta id="2">
+		<enunciado>Va a trabajar en .... </enunciado>
+		<valoracion>2.5</valoracion>
+		<opciones>
+			<opcion id="1">
+				<texto>una piscina.. </texto>
+				<puntuacion>100</puntuacion>
+			</opcion>
+			<opcion id="2">
+				<texto> un museo.</texto>
+				<puntuacion>-50</puntuacion>
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta id="3">
+		<enunciado>Va a hacer el viaje .... </enunciado>
+		<valoracion>2.5</valoracion>
+		<opciones>
+			<opcion id="1">
+				<texto>n julio. </texto>
+				<puntuacion>50</puntuacion>
+			</opcion>
+			<opcion id="2">
+				<texto>la próxima semana</texto>
+				<puntuacion>-25</puntuacion>
+			</opcion>
+			<opcion id="3">
+				<texto>en agosto.  </texto>
+				<puntuacion>-25</puntuacion>
+			</opcion>
+			<opcion id="4">
+				<texto> mañana.  </texto>
+				<puntuacion>50</puntuacion>
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta id="4">
+		<enunciado>Va a viajar ...  </enunciado>
+		<valoracion>2.5</valoracion>
+		<opciones>
+			<opcion id="1">
+				<texto>con Pedro.</texto>
+				<puntuacion>-33</puntuacion>
+			</opcion>
+			<opcion id="2">
+				<texto>en coche. </texto>
+				<puntuacion>100</puntuacion>
+			</opcion>
+			<opcion id="3">
+				<texto>por el norte de España.</texto>
+				<puntuacion>-34</puntuacion>
+			</opcion>
+		</opciones>
+	</pregunta>			
+</test>

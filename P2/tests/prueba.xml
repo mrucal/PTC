@@ -1,0 +1,61 @@
+<test>
+	<pregunta id="1">
+		<enunciado>Ángela escribe una postal sobre ... </enunciado>
+		<opciones>
+			<opcion id="1">
+				<texto>su trabajo de verano en España. </texto>
+			</opcion>
+			<opcion id="2">
+				<texto>sus estudios en España</texto>
+			</opcion>
+			<opcion id="3">
+				<texto>su viaje a España en verano. </texto>
+			</opcion>
+			<opcion id="4">
+				<texto> su curso de español en San Sebastián. </texto>
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta id="2">
+		<enunciado>Va a trabajar en .... </enunciado>
+		<opciones>
+			<opcion id="1">
+				<texto>una piscina.. </texto>
+			</opcion>
+			<opcion id="2">
+				<texto> un museo.</texto>
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta id="3">
+		<enunciado>Va a hacer el viaje .... </enunciado>
+		<opciones>
+			<opcion id="1">
+				<texto>n julio. </texto>
+			</opcion>
+			<opcion id="2">
+				<texto>la próxima semana</texto>
+			</opcion>
+			<opcion id="3">
+				<texto>en agosto.  </texto>
+			</opcion>
+			<opcion id="4">
+				<texto> mañana.  </texto>
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta id="4">
+		<enunciado>Va a viajar ...  </enunciado>
+		<opciones>
+			<opcion id="1">
+				<texto>con Pedro.</texto>
+			</opcion>
+			<opcion id="2">
+				<texto>en coche. </texto>
+			</opcion>
+			<opcion id="3">
+				<texto>por el norte de España.</texto>
+			</opcion>
+		</opciones>
+	</pregunta>			
+</test>
